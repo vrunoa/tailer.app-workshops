@@ -1,0 +1,10 @@
+{
+  "version": "0.0.1",
+  "workshops": {
+    "appium-workshop": {
+      "nice_name": "Appium Workshop",
+      "github_url": "https://github.com/vrunoa/appium-workshop",
+      "tag_release" : "v0.0.1"
+    }
+  }
+}
